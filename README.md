@@ -1,4 +1,4 @@
-# TorsdagsopgaveUge1
+# Torsdagsopgave Uge 1
 
-Orn-Iliya Anantaphak Petersen
-cph-op91@cphbusiness.dk
+**Name:** Orn-Iliya Anantaphak Petersen\
+**E-mail:** *cph-op91@cphbusiness.dk*
