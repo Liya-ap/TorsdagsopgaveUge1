@@ -1,11 +1,23 @@
 void setup() 
 {
+  fourA();
+  fourB();
+  fourCD();
+  fourEB();
+  fourEC();
+}
+
+void fourA() 
+{
   //4.a
   for(int i = 0; i <= 20; i++)
   {
     println(i);
   }
-  
+}
+
+void fourB() 
+{
   //4.b
   for(int i = 0; i <= 20; i++)
   {
@@ -14,7 +26,10 @@ void setup()
       println(i);
     }
   }
-  
+}
+
+void fourCD()
+{
   //4.c & 4.d
   int start = 10;
   
@@ -39,7 +54,10 @@ void setup()
         break;
     }    
   }
-  
+}
+
+void fourEB()
+{
   //4.e - change 4.b
   int j = 0;
   
@@ -51,7 +69,10 @@ void setup()
     }
    j++;
   }
-  
+}
+
+void fourEC() 
+{
   //4.e - change 4.c
   int begin = 5;
   int k = 0;
