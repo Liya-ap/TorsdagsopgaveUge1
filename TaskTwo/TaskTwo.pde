@@ -1,5 +1,10 @@
 void setup() 
 {
+  clapHands();
+}
+
+void clapHands() 
+{
   String name = "Liya";
   int age = 25;
   boolean isHappy = true;
