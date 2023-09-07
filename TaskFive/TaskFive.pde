@@ -63,7 +63,7 @@ void methodTwo()
       println("Sunday");
       break;
     default:
-      println("Day doesn't exist§!");
+      println("Day doesn't exist!");
       break;
   }
     
